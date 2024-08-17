@@ -14,8 +14,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,nodejs,python,swift,react,mongodb,firebase,javascript,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=typescript,express,c,java,nextjs,mysql,flask,djanco,kotlin,vuejs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,python,swift,react,mongodb,firebase,javascript,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=typescript,express,c,java,nextjs,mysql,flask,css,tailwind,figma,kotlin,vuejs,mysql" /><br>
 </div>
 
 <br/>
@@ -29,10 +29,4 @@
 
 <hr/>
 
-<br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
